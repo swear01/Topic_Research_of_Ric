@@ -7,5 +7,5 @@
 .vscode/
 講義/
 __pycache__/
-dominosa\dominosa.c
-dominosa\puzzle.sav
+dominosa/dominosa.c
+dominosa/puzzle.sav
