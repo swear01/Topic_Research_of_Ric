@@ -1,0 +1,9 @@
+*.gdoc
+*.gslides
+*.exe
+*.cnf
+*.result
+*.DS_Store
+.vscode/
+講義/
+__pycache__/
